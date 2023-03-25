@@ -1,10 +1,7 @@
 # PyBer_Analysis
-# Mod 5 Summary
+
 # Deliverable 3 Instructions
 
-The analysis should contain the following:
-
-# Overview of the analysis: Explain the purpose of the new analysis.
 ANALYSIS
 My analysis of the purpose of this project.  The purpose of this project was to create visualizations using our various new tools like Matplotlib, data frames, bubble charts, calculating statistics, showing percentages of total fares rides and drivers.
 
